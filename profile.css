@@ -33,7 +33,7 @@ header {
 }
 
 div.picture {
-    background-image: url("images/prof.jpg");
+    background-image: url("prof.jpg");
     display: block;
     background-size: cover;
     width: 150px;
